@@ -17,11 +17,11 @@ A sleek and interactive portfolio website featuring smooth scrolling (Locomotive
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ansh0330/Cynthia-Ugwu---Awwwards-Website-Clone.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd cynthiaugwu
    ```
 3. Open `index.html` in a browser.
 
@@ -29,8 +29,6 @@ A sleek and interactive portfolio website featuring smooth scrolling (Locomotive
 - Hover over different elements to see animations.
 - Scroll through the website to experience smooth scrolling effects.
 
-## Screenshots
-(Add relevant screenshots of your project here)
 
 ## Credits
 Inspired by **Cynthia Ugwu**'s portfolio design.
